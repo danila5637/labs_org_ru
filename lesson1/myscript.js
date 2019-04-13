@@ -1,0 +1,5 @@
+document.writeln("Голубенко")
+document.writeln("Данила")
+document.writeln("Константинович")
+document.writeln("14")
+document.writeln("Програмирование")
